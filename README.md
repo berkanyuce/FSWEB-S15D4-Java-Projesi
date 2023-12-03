@@ -9,9 +9,9 @@ Proje sayımız ilerledikçe proje yönetimimizi kolaylaştırmak adına projele
 
 ### Hedeflerimiz:
 
-### Stack Challenge
+### StackChallenge Challenge
 
- * Amacımız Stack kullanarak bir string değerinin palindrom olup olmadığına karar vermek.
+ * Amacımız StackChallenge kullanarak bir string değerinin palindrom olup olmadığına karar vermek.
  * İstediğiniz veri yapısını kullanabilirsiniz. Onemli olan ```LIFO``` mantığına uygun bir dizayn yapılması.
  * String değer .,?!_- gibi değerler içerebilir.Boşluk karakterini içerebilir. String değerleri büyük harfle ya da küçük harfle yazılabilir.
  * Yazacağınız kod bütün bu karakterlere ve küçük harf büyük harfe uygun çalışmalı.
@@ -24,8 +24,8 @@ Proje sayımız ilerledikçe proje yönetimimizi kolaylaştırmak adına projele
 
 ### Queues Challenge
 
- * Amacımız Stack ve Queue kullanarak bir string değerinin palindrom olup olmadığına karar vermek. 
- * Stack için geçerli olan tüm kurallar burada geçerlidir.
+ * Amacımız StackChallenge ve Queue kullanarak bir string değerinin palindrom olup olmadığına karar vermek. 
+ * StackChallenge için geçerli olan tüm kurallar burada geçerlidir.
  *  ```I did, did I?``` => palindrom
  * ```Racecar``` => palindrom
  * ```hello``` => palindrom değil
